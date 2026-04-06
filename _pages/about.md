@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dear friends, my name is **Yuxiang Kuang** (邝玉香), an undergraduate student majoring in computer science and technology at Hunan University of Science and Technology [HNUST](https://www.hnust.edu.cn/). My undergraduate advisor is [Guosheng KANG](https://guoshengkang.github.io/). My research interest includes Machine Learning, Service Recommendation and Natural Language Processing.
+Dear friends, my name is **Yuxiang Kuang** (邝玉香), an undergraduate student majoring in computer science and technology at [Hunan University of Science and Technology](https://www.hnust.edu.cn/). My undergraduate advisor is [Guosheng KANG](https://guoshengkang.github.io/). My research interest includes Machine Learning, Service Recommendation and Natural Language Processing.
 
 
 ## Research Interest
@@ -21,10 +21,11 @@ Dear friends, my name is **Yuxiang Kuang** (邝玉香), an undergraduate student
 
 
 ## Awards
-- **邝玉香.** 第十六届蓝桥杯全国软件和信息技术专业人才大赛省级二等奖 2025.05
-- **邝玉香.** 睿抗机器人开发者大赛省级三等奖 2025.07
-- **邝玉香(排名5/5).** 第十八届中国计算机设计大赛省级二等奖 2025.06
-- **邝玉香.** 全国大学生英语竞赛校级二等奖 2025.05
+- **邝玉香.** 睿抗机器人开发者大赛 - 省级三等奖 2025.07
+- **邝玉香.** 第十八届中国计算机设计大赛 - 省级二等奖 2025.06
+- **邝玉香.** 第十六届蓝桥杯全国软件和信息技术专业人才大赛 - 省级二等奖 2025.05
+- **邝玉香.** 参与《心灵互联——基于DeepSeek的心理健康公益平台》国家级创新训练项目 2025
+- **邝玉香.** 全国大学生英语竞赛 - 校级二等奖 2025.05
 
 ## Credit
 - 国家奖学金 2025.10
