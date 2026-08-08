@@ -16,9 +16,8 @@ Dear friends, my name is **Yuxiang Kuang** (邝玉香), an undergraduate student
 - Natural Language Processing
 
 ## Publications
-- **Yuxiang Kuang**, Xiaoxiang Liao, Guosheng Kang*, Ye Cao, Xiao Cui, Rong Hu, Jiayan Xiang. <br> "Multi-View Denoised Graph Collaborative Filtering for Third-Party Library Recommendation". IEEE International Joint Conference on Neural Networks, 2026.(IJCNN, CCF-C, Accept)
-- Xiaoxiang Liao, **Yuxiang Kuang**, Jiahao Ma, Guosheng Kang*, Wen Li, Jiayan Xiang. <br>
-"Multi-View Contrastive and Similarity-Supervised Graph Collaborative Filtering for Third-Party Library Recommendation." IEEE International Conference on Computer Supported Cooperative Work in Design, 2026.(CSCWD, CCF-C, Accept)
+- **Yuxiang Kuang**, Xiaoxiang Liao, Guosheng Kang*, Ye Cao, Xiao Cui, Rong Hu, Jiayan Xiang. <br> "Multi-View Denoised Graph Collaborative Filtering for Third-Party Library Recommendation". IEEE International Joint Conference on Neural Networks, 2026.(IJCNN, CCF-C, Accept) [[PDF]](https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/PUec9-ijcnn_pap3387s2.pdf)
+- Xiaoxiang Liao, **Yuxiang Kuang**, Jiahao Ma, Guosheng Kang*, Wen Li, Jiayan Xiang. <br> "Multi-View Contrastive and Similarity-Supervised Graph Collaborative Filtering for Third-Party Library Recommendation." IEEE International Conference on Computer Supported Cooperative Work in Design, 2026.(CSCWD, CCF-C, Accept) [[PDF]](https://ieeexplore.ieee.org/abstract/document/11582792/)
 
 ## Projects
 - **《云脉——AI驱动的全场景数智医疗健康服务平台》（中国大学生计算机设计大赛省二作品）**
